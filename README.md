@@ -1,7 +1,9 @@
 ## Olá! 👋
 
 
-Meu nome é Kaynan Oliveira sou estudante da Estácio, e estou cursando Análise e Desenvolvimento de Sistemas.
+Meu nome é Kaynan Oliveira, e atualmente cursando Análise e Desenvolvimento de Sistemas na Universidade Estácio de Sá, com foco em expandir conhecimentos e habilidades no campo da tecnologia. Como embaixador da Dio Campus Expert, estou comprometido em promover o aprendizado e o desenvolvimento contínuo na comunidade de tecnologia.
+
+Tenho conhecimento com as linguagens: Python, JavaScript, CSS, PHP, MySQL e Node.JS o que me proporciona uma base sólida para o desenvolvimento web e aplicações back-end. Estou sempre em busca de novos desafios e oportunidades para crescer na área de tecnologia.
 
 <div align = "center">
   <a href="https://github.com/cleybersilva">
@@ -17,3 +19,6 @@ Meu nome é Kaynan Oliveira sou estudante da Estácio, e estou cursando Análise
    <img align = "center" alt = "Kaynan-VS Code" height = "30" width = "40" src = https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg>
 </div>
 
+<div>
+ <a href="https://www.linkedin.com/in/cleybersilva/" target="_blank"> <img src = https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white "target =" _ blank "> </a>
+</div>
