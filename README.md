@@ -18,7 +18,9 @@ Tenho conhecimento com as linguagens: Python, JavaScript, CSS, PHP, MySQL e Node
   <img align = "center" alt = "Kaynan-Python" height = "30" width = "40" src = https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/python/python-original.svg>
    <img align = "center" alt = "Kaynan-VS Code" height = "30" width = "40" src = https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg>
 </div>
-
+  
+  ##
+ 
 <div>
  <a href="https://www.linkedin.com/in/cleybersilva/" target="_blank"> <img src = https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white "target =" _ blank "> </a>
 </div>
