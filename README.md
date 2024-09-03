@@ -4,7 +4,7 @@
 Meu nome é Kaynan Oliveira sou estudante da Estácio, e estou cursando Análise e Desenvolvimento de Sistemas.
 
 <div align = "center">
-  <a href="https://github.com/cleybersilva">
+  <a href="https://github.com/kaynanoliveira">
   <img height = "180em" src = "https://github-readme-stats.vercel.app/api?username=kaynanoliveira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
   <img height = "180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=kaynanoliveira&layout=compact&langs_count=7&theme=dracula" />
 </div>
