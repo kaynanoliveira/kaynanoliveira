@@ -23,7 +23,7 @@ Tenho conhecimento com as linguagens: Python, JavaScript, TypeScript, HTML, CSS,
   <img align = "center" alt = "Kaynan-MySQL" height = "60" width = "70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
   <img align = "center" alt = "Kaynan-GCP" height = "40" width = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" />
   <img align = "center" alt = "Kaynan-NodeJS" height = "50" width = "60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
-  <img align = "center" alt = "Kaynan-TypeScript" height = "40" width = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+  <img align = "center" alt = "Kaynan-TypeScript" height = "30" width = "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
                                        
 </div>
 
