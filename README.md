@@ -18,7 +18,9 @@ Tenho conhecimento com as linguagens: Python, JavaScript, TypeScript, HTML, CSS,
   <img align = "center" alt = "Kaynan-Python" height = "30" width = "40" src = https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/python/python-original.svg>
   <img align = "center" alt = "Kaynan-Azure" height = "30" width = "40" src = https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg>
   <img align = "center" alt = "Kaynan-AWS" height = "40" width = "50" src = https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg>
-   <img align = "center" alt = "Kaynan-VS Code" height = "30" width = "40" src = https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg>
+  <img align = "center" alt = "Kaynan-VS Code" height = "30" width = "40" src = https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
+          
 </div>
 
 # 
