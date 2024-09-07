@@ -24,7 +24,8 @@ Tenho conhecimento com as linguagens: Python, JavaScript, TypeScript, HTML, CSS,
   <img align = "center" alt = "Kaynan-GCP" height = "40" width = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" />
   <img align = "center" alt = "Kaynan-NodeJS" height = "50" width = "60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
   <img align = "center" alt = "Kaynan-TypeScript" height = "30" width = "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
-                                       
+  <img align = "center" alt = "Kaynan-MongoDB" height = "30" width = "40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" />
+                                               
 </div>
 
 # 
