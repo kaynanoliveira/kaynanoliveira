@@ -3,7 +3,7 @@
 
 Meu nome é Kaynan Oliveira, e atualmente cursando Análise e Desenvolvimento de Sistemas na Universidade Estácio de Sá, com foco em expandir conhecimentos e habilidades no campo da tecnologia. Como embaixador da Dio Campus Expert, estou comprometido em promover o aprendizado e o desenvolvimento contínuo na comunidade de tecnologia.
 
-Tenho conhecimento com: Python, JavaScript, TypeScript, Node.js, HTML, CSS, PHP, MySQL, MariaDB e MongoDB o que me proporciona uma base sólida para o desenvolvimento web e aplicações back-end. Estou sempre em busca de novos desafios e oportunidades para crescer na área de tecnologia.
+Tenho conhecimento com: Python, Kotlin, JavaScript, TypeScript, Node.js, HTML, CSS, PHP, MySQL, MariaDB e MongoDB o que me proporciona uma base sólida para o desenvolvimento web e aplicações back-end. Estou sempre em busca de novos desafios e oportunidades para crescer na área de tecnologia.
 
 <div align = "center">
   <a href="https://github.com/kaynanoliveira">
@@ -25,7 +25,8 @@ Tenho conhecimento com: Python, JavaScript, TypeScript, Node.js, HTML, CSS, PHP,
   <img align = "center" alt = "Kaynan-NodeJS" height = "50" width = "60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
   <img align = "center" alt = "Kaynan-TypeScript" height = "30" width = "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
   <img align = "center" alt = "Kaynan-MongoDB" height = "40" width = "50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" />
-                                               
+  <img align = "center" alt = "Kaynan-Kotlin" height = "40" width = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" />
+                                                      
 </div>
 
 # 
