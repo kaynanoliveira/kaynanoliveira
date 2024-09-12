@@ -3,7 +3,7 @@
 
 Meu nome é Kaynan Oliveira, e atualmente cursando Análise e Desenvolvimento de Sistemas na Universidade Estácio de Sá, com foco em expandir conhecimentos e habilidades no campo da tecnologia. Como embaixador da Dio Campus Expert, estou comprometido em promover o aprendizado e o desenvolvimento contínuo na comunidade de tecnologia.
 
-Tenho conhecimento com: Python, Kotlin, JavaScript, TypeScript, Node.js, HTML, CSS, PHP, MySQL, MariaDB e MongoDB o que me proporciona uma base sólida para o desenvolvimento web e aplicações back-end. Estou sempre em busca de novos desafios e oportunidades para crescer na área de tecnologia.
+Tenho conhecimento com: Python, Kotlin, JavaScript, TypeScript, Node.JS, HTML, CSS, PHP, MySQL, MariaDB e MongoDB o que me proporciona uma base sólida para o desenvolvimento web e aplicações back-end. Estou sempre em busca de novos desafios e oportunidades para crescer na área de tecnologia.
 
 <div align = "center">
   <a href="https://github.com/kaynanoliveira">
@@ -33,5 +33,5 @@ Tenho conhecimento com: Python, Kotlin, JavaScript, TypeScript, Node.js, HTML, C
 
 <div>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaynanoliveira/) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kaynanoliveira) [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:kaynanoliveira357@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaynanoliveira/) [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:kaynanoliveira357@gmail.com)
 </div>
