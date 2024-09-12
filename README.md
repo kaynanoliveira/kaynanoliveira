@@ -26,7 +26,8 @@ Tenho conhecimento com: Python, Kotlin, JavaScript, TypeScript, Node.JS, HTML, C
   <img align = "center" alt = "Kaynan-TypeScript" height = "30" width = "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
   <img align = "center" alt = "Kaynan-MongoDB" height = "40" width = "50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" />
   <img align = "center" alt = "Kaynan-Kotlin" height = "40" width = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" />
-                                                      
+  <img align = "center" alt = "Kaynan-MariaDB" height = "40" width = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original-wordmark.svg" />
+                                                              
 </div>
 
 # 
