@@ -5,6 +5,8 @@ Meu nome é Kaynan Oliveira, e atualmente cursando Análise e Desenvolvimento de
 
 Tenho conhecimento com: Python, Kotlin, JavaScript, TypeScript, Node.JS, HTML, CSS, PHP, MySQL, MariaDB e MongoDB o que me proporciona uma base sólida para o desenvolvimento web e aplicações back-end. Estou sempre em busca de novos desafios e oportunidades para crescer na área de tecnologia.
 
+<h1>Meus Conhecimentos:</h1>
+
 <div align = "center">
   <a href="https://github.com/kaynanoliveira">
   <img height = "180em" src = "https://github-readme-stats.vercel.app/api?username=kaynanoliveira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
@@ -33,6 +35,7 @@ Tenho conhecimento com: Python, Kotlin, JavaScript, TypeScript, Node.JS, HTML, C
 # 
 
 <div>
+<h1>Contato:</h1>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaynanoliveira/) [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:kaynanoliveira357@gmail.com)
 </div>
