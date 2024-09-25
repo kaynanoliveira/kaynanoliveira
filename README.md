@@ -11,7 +11,7 @@ Tenho conhecimento com: Python, Kotlin, JavaScript, TypeScript, Node.JS, HTML, C
   <img height = "180em" src = "https://github-readme-stats.vercel.app/api?username=kaynanoliveira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
   <img height = "180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=kaynanoliveira&layout=compact&langs_count=7&theme=dracula" />
 </div>
-<h1>Meus Conhecimentos:</h1>
+<h1>Conhecimentos:</h1>
 <div style = "display: inline_block"> <br>
   <img align = "center" alt = "Kaynan-Git" height = "30" width = "40" src = https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg>
   <img align = "center" alt = "Kaynan-HTML" height = "30" width = "40" src = https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/html5/html5-original.svg>
