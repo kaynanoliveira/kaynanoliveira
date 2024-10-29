@@ -7,7 +7,7 @@ Tenho conhecimento com: Python, Kotlin, JavaScript, TypeScript, Node.JS, HTML, C
 
 
 <div align = "center">
-  ### 📊 Estatísticas no GitHub
+  <h2>📊 Estatísticas no GitHub</h2>
   <a href="https://github.com/kaynanoliveira">
   <img height = "180em" src = "https://github-readme-stats.vercel.app/api?username=kaynanoliveira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
   <img height = "180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=kaynanoliveira&layout=compact&langs_count=7&theme=dracula" />
