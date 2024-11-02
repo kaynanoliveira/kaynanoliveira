@@ -1,7 +1,7 @@
 # Olá, me chamo Kaynan 👋
 
 
-Estudante de Análise e Desenvolvimento de Sistemas na Universidade Estácio de Sá, com conhecimento em programação e desenvolvimento de software. Como embaixador da Dio Campus Expert, estou comprometido em promover o aprendizado e o desenvolvimento contínuo na comunidade de tecnologia. Possuo conhecimentos em Python, Kotlin, JavaScript, TypeScript, Node.JS, HTML, CSS, PHP, MySQL, MariaDB e MongoDB, com foco em desenvolvimento web e back-end. Estou sempre buscando novos desafios e oportunidades para expandir meus conhecimentos e contribuir significativamente para projetos na área de TI.
+Atualmente cursando Análise e Desenvolvimento de Sistemas na Universidade Estácio de Sá, com conhecimento em programação e desenvolvimento de software. Como embaixador da Dio Campus Expert, estou comprometido em promover o aprendizado e o desenvolvimento contínuo na comunidade de tecnologia. Possuo conhecimentos em Python, Kotlin, JavaScript, TypeScript, Node.JS, HTML, CSS, PHP, MySQL, MariaDB e MongoDB, com foco em desenvolvimento web e back-end. Estou sempre buscando novos desafios e oportunidades para expandir meus conhecimentos e contribuir significativamente para projetos na área de TI.
 
 
 <div align = "center">
