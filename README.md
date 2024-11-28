@@ -29,7 +29,8 @@ Possuo conhecimento nas linguagens de programação: Python, Kotlin, JavaScript,
   <img align = "center" alt = "Kaynan-MongoDB" height = "40" width = "50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" />
   <img align = "center" alt = "Kaynan-Kotlin" height = "30" width = "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" />
   <img align = "center" alt = "Kaynan-MariaDB" height = "40" width = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original-wordmark.svg" />
-                                                              
+  <img align = "center" alt = "Kaynan-IntelliJ" height = "40" width = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" />
+                                                                     
 </div>
 
 # 
