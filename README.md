@@ -17,7 +17,7 @@ Possuo conhecimento nas linguagens de programação: Python, Kotlin, JavaScript,
   <img align = "center" alt = "Kaynan-HTML" height = "30" width = "40" src = https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/html5/html5-original.svg>
   <img align = "center" alt = "Kaynan-CSS" height = "30" width = "40" src = https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/css3/css3-original.svg>
   <img align = "center" alt = "Kaynan-Js" height = "30" width = "40" src = https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/javascript/javascript-original.svg>
-  <img align = "center" alt = "Kaynan-Python" height = "30" width = "40" src = https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/python/python-original.svg>
+  <img align = "center" alt = "Kaynan-Python" height = "40" width = "50" src = https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/python/python-original.svg>
   <img align = "center" alt = "Kaynan-Azure" height = "30" width = "40" src = https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg>
   <img align = "center" alt = "Kaynan-AWS" height = "30" width = "40" src = https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg>
   <img align = "center" alt = "Kaynan-VS Code" height = "30" width = "40" src = https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg>
