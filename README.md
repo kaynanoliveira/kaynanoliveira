@@ -29,8 +29,9 @@ Possuo conhecimento nas linguagens de programação: Python, Kotlin, JavaScript,
   <img align = "center" alt = "Kaynan-MongoDB" height = "40" width = "50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" />
   <img align = "center" alt = "Kaynan-Kotlin" height = "30" width = "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" />
   <img align = "center" alt = "Kaynan-MariaDB" height = "40" width = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original-wordmark.svg" />
-  <img align = "center" alt = "Kaynan-IntelliJ" height = "40" width = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" />
-  <img align = "center" alt = "Kaynan-Express" height = "40" width = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg"/>
+  <img align = "center" alt = "Kaynan-IntelliJ" height = "30" width = "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" />
+  <img align = "center" alt = "Kaynan-Express" height = "30" width = "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg"/>
+  <img align = "center" alt = "Kaynan-Postman" height = "30" width = "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />    
   <img align = "center" alt = "Kaynan-Fastify" height = "40" width = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastify/fastify-original.svg" />
           
 </div>
