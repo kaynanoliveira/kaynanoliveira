@@ -26,7 +26,7 @@ Tenho um sólido conhecimento em desenvolvimento web, back-end e mobile, utiliza
   <img align = "center" alt = "Kaynan-GCP" height = "30" width = "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" />
   <img align = "center" alt = "Kaynan-NodeJS" height = "40" width = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
   <img align = "center" alt = "Kaynan-TypeScript" height = "30" width = "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
-  <img align = "center" alt = "Kaynan-MongoDB" height = "30" width = "40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" />
+  <img align = "center" alt = "Kaynan-MongoDB" height = "30" width = "40" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
   <img align = "center" alt = "Kaynan-Kotlin" height = "30" width = "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" />
   <img align = "center" alt = "Kaynan-MariaDB" height = "30" width = "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original-wordmark.svg" />
   <img align = "center" alt = "Kaynan-IntelliJ" height = "30" width = "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" />
