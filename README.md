@@ -22,7 +22,7 @@ Tenho um sólido conhecimento em desenvolvimento web, back-end e mobile, utiliza
   <img align = "center" alt = "Kaynan-AWS" height = "40" width = "50" src = https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg>
   <img align = "center" alt = "Kaynan-VS Code" height = "30" width = "40" src = https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg>
   <img align = "center" alt = "Kaynan-Php" height = "40" width = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
-  <img align = "center" alt = "Kaynan-MySQL" height = "40" width = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
+  <img align = "center" alt = "Kaynan-MySQL" height = "50" width = "60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
   <img align = "center" alt = "Kaynan-GCP" height = "30" width = "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" />
   <img align = "center" alt = "Kaynan-NodeJS" height = "40" width = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
   <img align = "center" alt = "Kaynan-TypeScript" height = "30" width = "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
