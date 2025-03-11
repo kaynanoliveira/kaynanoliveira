@@ -30,7 +30,6 @@ Tenho um sólido conhecimento em desenvolvimento web, back-end e mobile, utiliza
   <img align = "center" alt = "Kaynan-Kotlin" height = "30" width = "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" />
   <img align = "center" alt = "Kaynan-MariaDB" height = "30" width = "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original-wordmark.svg" />
   <img align = "center" alt = "Kaynan-IntelliJ" height = "30" width = "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" />
-  <img align = "center" alt = "Kaynan-Express" height = "30" width = "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg"/>
   <img align = "center" alt = "Kaynan-Postman" height = "30" width = "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />    
   <img align = "center" alt = "Kaynan-Linux" height = "30" width = "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
   <img align = "center" alt = "Kaynan-Docker" height = "40" width = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" />
