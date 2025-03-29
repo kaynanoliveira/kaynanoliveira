@@ -9,7 +9,8 @@ Possuo experiência em **desenvolvimento web, back-end e mobile**, utilizando di
 - **Banco de Dados:** MySQL, MariaDB, MongoDB
 - **Cloud Computing:** AWS, Azure, GCP
 - **Ferramentas & Outros:** Git, Docker, Linux, Scrum
-- 
+
+
 Tenho certificações em **Cybersecurity Awareness, Scrum Foundation e Business Agility**.
 
 Estou sempre em busca de novos desafios e oportunidades para ampliar meus conhecimentos e contribuir em projetos inovadores dentro do universo da tecnologia. 🚀
