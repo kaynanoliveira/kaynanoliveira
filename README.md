@@ -2,7 +2,7 @@
 
 Atualmente, estou cursando **Análise e Desenvolvimento de Sistemas** na **Universidade Estácio de Sá** e tenho como objetivo expandir constantemente meus conhecimentos e habilidades na área da tecnologia. Como **embaixador da DIO Campus Expert**, estou comprometido em promover o aprendizado e o desenvolvimento contínuo na comunidade tecnológica.
 
-Possuo experiência em **desenvolvimento web, back-end e mobile**, utilizando diversas linguagens de programação e frameworks, tais como:
+Possuo um sólido conhecimento em **desenvolvimento web, back-end e mobile**, utilizando diversas linguagens de programação e frameworks, tais como:
 
 - **Front-end:** HTML, CSS, JavaScript, TypeScript
 - **Back-end:** Node.js, PHP, Python, Kotlin
