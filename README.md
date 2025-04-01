@@ -11,7 +11,7 @@ Possuo um sólido conhecimento em **desenvolvimento web, back-end e mobile**, ut
 - **Ferramentas & Outros:** Git, Docker, Linux, Scrum
 
 
-Tenho certificações em **Cybersecurity Awareness, Scrum Foundation e Business Agility**.
+Tenho as certificações **Cybersecurity Awareness Professional Certificate - CAPC™, Scrum Foundation Professional Certificate - SFPC™ e Business Agility Professional Certificate - BAPC™**.
 
 Estou sempre em busca de novos desafios e oportunidades para ampliar meus conhecimentos e contribuir em projetos inovadores dentro do universo da tecnologia. 🚀
 
