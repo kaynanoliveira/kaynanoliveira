@@ -29,9 +29,9 @@ Atualmente, estou cursando **Análise e Desenvolvimento de Sistemas** na **Unive
 
 ---
 ## 🏅 Certificações
-- **Cybersecurity Awareness Professional Certificate (CAPC™)** <img align="center" alt="Kaynan-Cybersecurity-CAPC" height="40" width="40" src="https://images.credly.com/size/340x340/images/4025d35a-e8cd-43fb-92a1-7babf0221527/blob">
-- **Scrum Foundation Professional Certificate (SFPC™)** <img align="center" alt="Kaynan-Scrum-SFPC" height="40" width="40" src="https://images.credly.com/size/340x340/images/b1bc1abc-c04c-4b80-b3b8-eb13f521eb60/blob">
-- **Business Agility Professional Certificate (BAPC™)** <img align="center" alt="Kaynan-Business-Agility-BAPC" height="40" width="40" src="https://images.credly.com/size/340x340/images/2c6dea8b-024e-4415-bc98-b97e81675218/blob">
+- **Cybersecurity Awareness Professional Certification (CAPC™)** <img align="center" alt="Kaynan-Cybersecurity-CAPC" height="40" width="40" src="https://images.credly.com/size/340x340/images/4025d35a-e8cd-43fb-92a1-7babf0221527/blob">
+- **Scrum Foundation Professional Certification (SFPC™)** <img align="center" alt="Kaynan-Scrum-SFPC" height="40" width="40" src="https://images.credly.com/size/340x340/images/b1bc1abc-c04c-4b80-b3b8-eb13f521eb60/blob">
+- **Business Agility Professional Certification (BAPC™)** <img align="center" alt="Kaynan-Business-Agility-BAPC" height="40" width="40" src="https://images.credly.com/size/340x340/images/2c6dea8b-024e-4415-bc98-b97e81675218/blob">
 
 ---
 
