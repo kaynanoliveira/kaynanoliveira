@@ -6,25 +6,26 @@ Atualmente, estou cursando **Análise e Desenvolvimento de Sistemas** na **Unive
 
 <div style = "display: inline_block"> <br>
   <img align = "center" alt = "Kaynan-Git" height = "30" width = "40" src = https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg>
-  <img align = "center" alt = "Kaynan-HTML" height = "30" width = "40" src = https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/html5/html5-original.svg>
-  <img align = "center" alt = "Kaynan-CSS" height = "30" width = "40" src = https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/css3/css3-original.svg>
-  <img align = "center" alt = "Kaynan-Js" height = "30" width = "40" src = https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/javascript/javascript-original.svg>
-  <img align = "center" alt = "Kaynan-Python" height = "40" width = "50" src = https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/python/python-original.svg>
-  <img align = "center" alt = "Kaynan-Azure" height = "30" width = "40" src = https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg>
-  <img align = "center" alt = "Kaynan-AWS" height = "40" width = "50" src = https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg>
-  <img align = "center" alt = "Kaynan-VS Code" height = "30" width = "40" src = https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg>
-  <img align = "center" alt = "Kaynan-Php" height = "40" width = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
-  <img align = "center" alt = "Kaynan-MySQL" height = "50" width = "60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
-  <img align = "center" alt = "Kaynan-GCP" height = "30" width = "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" />
-  <img align = "center" alt = "Kaynan-NodeJS" height = "40" width = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
+  <img align = "center" alt = "Kaynan-HTML" height = "30" width = "40" src ="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+  <img align = "center" alt = "Kaynan-CSS" height = "30" width = "40" src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+  <img align = "center" alt = "Kaynan-Js" height = "30" width = "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
   <img align = "center" alt = "Kaynan-TypeScript" height = "30" width = "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
-  <img align="center" alt="Kaynan-MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
+  <img align = "center" alt = "Kaynan-NodeJS" height = "40" width = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
+  <img align = "center" alt = "Kaynan-React" height = "30" width = "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+  <img align="center" alt="Kaynan-Next.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
+  <img align="center" alt="Kaynan-Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+  <img align = "center" alt = "Kaynan-Php" height = "40" width = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
   <img align = "center" alt = "Kaynan-Kotlin" height = "30" width = "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" />
-  <img align = "center" alt = "Kaynan-MariaDB" height = "30" width = "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original-wordmark.svg" />
-  <img align = "center" alt = "Kaynan-IntelliJ" height = "30" width = "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" />
-  <img align = "center" alt = "Kaynan-Postman" height = "30" width = "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />    
+  <img align = "center" alt = "Kaynan-Azure" height = "30" width = "40" src=https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg>
+  <img align = "center" alt = "Kaynan-AWS" height = "40" width = "50" src = https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg>
+  <img align = "center" alt = "Kaynan-GCP" height = "30" width = "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" />
+  <img align = "center" alt = "Kaynan-MySQL" height = "50" width = "60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
+  <img align="center" alt="Kaynan-MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
+  <img align = "center" alt = "Kaynan-MariaDB" height = "40" width = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original.svg" />
   <img align = "center" alt = "Kaynan-Linux" height = "30" width = "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
-  <img align = "center" alt = "Kaynan-Docker" height = "40" width = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" />
+  <img align = "center" alt = "Kaynan-Docker" height = "40" width = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
+  <img align = "center" alt = "Kaynan-VS Code" height = "30" width = "40" src = https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg>
+  <img align = "center" alt = "Kaynan-IntelliJ" height = "30" width = "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" />
 </div>
 
 ---
