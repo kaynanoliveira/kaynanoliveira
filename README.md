@@ -2,7 +2,7 @@
 
 Atualmente, estou cursando **Análise e Desenvolvimento de Sistemas** na **Universidade Estácio de Sá** e tenho como objetivo expandir constantemente meus conhecimentos e habilidades na área da tecnologia. Sou apaixonado por criar soluções inovadoras e estou sempre em busca de novos desafios para aprimorar meu desenvolvimento como profissional de TI.
 
-## 🛠️ Habilidades
+## 🛠️ Tecnologias
 
 <div style = "display: inline_block"> <br>
   <img align = "center" alt = "Kaynan-Git" height = "30" width = "40" src = https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg>
@@ -30,9 +30,9 @@ Atualmente, estou cursando **Análise e Desenvolvimento de Sistemas** na **Unive
 
 ---
 ## 🏅 Certificações
-- **Cybersecurity Awareness Professional Certification (CAPC™)** <img align="center" alt="Kaynan-Cybersecurity-CAPC" height="40" width="40" src="https://images.credly.com/size/340x340/images/4025d35a-e8cd-43fb-92a1-7babf0221527/blob">
-- **Scrum Foundation Professional Certification (SFPC™)** <img align="center" alt="Kaynan-Scrum-SFPC" height="40" width="40" src="https://images.credly.com/size/340x340/images/b1bc1abc-c04c-4b80-b3b8-eb13f521eb60/blob">
-- **Business Agility Professional Certification (BAPC™)** <img align="center" alt="Kaynan-Business-Agility-BAPC" height="40" width="40" src="https://images.credly.com/size/340x340/images/2c6dea8b-024e-4415-bc98-b97e81675218/blob">
+- **Cybersecurity Awareness Professional Certification (CAPC™)**
+- **Scrum Foundation Professional Certification (SFPC™)**
+- **Business Agility Professional Certification (BAPC™)**
 
 ---
 
@@ -49,7 +49,10 @@ Atualmente, estou cursando **Análise e Desenvolvimento de Sistemas** na **Unive
 
 ## 📬 Contato
 
-<a href="https://www.linkedin.com/in/kaynanoliveira/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a><a href="mailto:kaynanoliveira357@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail"></a><a href="https://wa.me/5583987230051?text=Olá%2C+Kaynan%21" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
+<a href="https://www.linkedin.com/in/kaynanoliveira/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://discordapp.com/users/408722185847570443" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
+<a href="mailto:kaynanoliveira357@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail"></a>
+<a href="https://wa.me/5583987230051?text=Olá%2C+Kaynan%21" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
 </div>
 
 ---
