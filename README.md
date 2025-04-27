@@ -33,6 +33,7 @@ Atualmente, estou cursando **Análise e Desenvolvimento de Sistemas** na **Unive
 - **Cybersecurity Awareness Professional Certification (CAPC™)**
 - **Scrum Foundation Professional Certification (SFPC™)**
 - **Business Agility Professional Certification (BAPC™)**
+- **Fortinet Certified Fundamentals in Cybersecurity**
 
 ---
 
