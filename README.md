@@ -25,6 +25,7 @@ Atualmente, estou cursando **Análise e Desenvolvimento de Sistemas** na **Unive
   <img align = "center" alt = "Kaynan-MariaDB" height = "40" width = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original.svg" />
   <img align = "center" alt = "Kaynan-Linux" height = "30" width = "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
   <img align = "center" alt = "Kaynan-Docker" height = "40" width = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
+  <img align = "center" alt = "Kaynan-Gitlab" height = "30" width = "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" />
   <img align = "center" alt = "Kaynan-VS Code" height = "30" width = "40" src = https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg>
   <img align = "center" alt = "Kaynan-IntelliJ" height = "30" width = "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" />
 </div>
