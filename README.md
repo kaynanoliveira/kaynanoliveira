@@ -2,6 +2,12 @@
 
 Atualmente, estou cursando **Análise e Desenvolvimento de Sistemas** na **Universidade Estácio de Sá** e tenho como objetivo expandir constantemente meus conhecimentos e habilidades na área da tecnologia. Sou apaixonado por criar soluções inovadoras e estou sempre em busca de novos desafios para aprimorar meu desenvolvimento como profissional de TI.
 
+## 🏅 Certificações
+- **Cybersecurity Awareness Professional Certification (CAPC™)**
+- **Scrum Foundation Professional Certification (SFPC™)**
+- **Business Agility Professional Certification (BAPC™)**
+- **Fortinet Certified Fundamentals in Cybersecurity**
+
 ## 🛠️ Tecnologias
 
 <div style = "display: inline_block"> <br>
@@ -29,13 +35,6 @@ Atualmente, estou cursando **Análise e Desenvolvimento de Sistemas** na **Unive
   <img align = "center" alt = "Kaynan-VS Code" height = "30" width = "40" src = https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg>
   <img align = "center" alt = "Kaynan-IntelliJ" height = "30" width = "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" />
 </div>
-
----
-## 🏅 Certificações
-- **Cybersecurity Awareness Professional Certification (CAPC™)**
-- **Scrum Foundation Professional Certification (SFPC™)**
-- **Business Agility Professional Certification (BAPC™)**
-- **Fortinet Certified Fundamentals in Cybersecurity**
 
 ---
 
